@@ -1,8 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.pokemon_api">
-    <uses-permission android:name="android.permission.INTERNET"/>
+    package="com.example.pokedex_challenge">
    <application
-        android:label="pokemon_api"
+        android:label="pokedex_challenge"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

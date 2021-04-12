@@ -1,4 +1,4 @@
-# pokemon_api
+# pokedex_challenge
 
 A new Flutter project.
 
